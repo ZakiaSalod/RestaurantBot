@@ -1,0 +1,51 @@
+C:\Projects\RestraurantBot\RestraurantBot\bin\Bot Application.dll.config
+C:\Projects\RestraurantBot\RestraurantBot\bin\Bot Application.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Bot Application.pdb
+C:\Projects\RestraurantBot\RestraurantBot\bin\Autofac.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Chronic.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.Bot.Builder.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.Bot.Connector.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Logging.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Newtonsoft.Json.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\System.Net.Http.Formatting.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\System.Web.Http.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\System.Web.Http.WebHost.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\Autofac.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.Bot.Builder.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.Bot.Connector.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Logging.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\Newtonsoft.Json.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\System.Net.Http.Formatting.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\System.Web.Http.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\System.Web.Http.WebHost.xml
+C:\Projects\RestraurantBot\RestraurantBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Projects\RestraurantBot\RestraurantBot\obj\Debug\RestraurantBot.csprojResolveAssemblyReference.cache
+C:\Projects\RestraurantBot\RestraurantBot\obj\Debug\Bot Application.dll
+C:\Projects\RestraurantBot\RestraurantBot\obj\Debug\Bot Application.pdb
